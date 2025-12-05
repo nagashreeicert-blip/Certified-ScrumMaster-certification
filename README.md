@@ -15,7 +15,7 @@ Stop just managing tasks — start leading high-performance Agile teams with the
 
 ⭐ SwitchUp Rating: 4.9/5
 
-🚀 Pass on Your First Attempt
+🚀 # Pass on Your First Attempt
 
 Expert-led training, hands-on Scrum simulations, and real-world case studies ensure strong conceptual clarity and a high exam success rate.
 
@@ -23,11 +23,11 @@ Expert-led training, hands-on Scrum simulations, and real-world case studies ens
 
 Complete guidance on Scrum Alliance profile creation, class completion steps, and CSM® exam preparation.
 
-🎓 Become a Certified ScrumMaster
+🎓 #  Become a Certified ScrumMaster
 
 Master Scrum roles, ceremonies, artifacts, and team dynamics to lead Agile transformations confidently.
 
-📘 CSM Training Program Overview
+📘 # CSM Training Program Overview
 
 Your Certified ScrumMaster® is more than a certificate — it’s your gateway to leading Agile teams and transforming project outcomes.
 
@@ -90,3 +90,9 @@ Templates: Product Backlog, Sprint Backlog, burndown charts
 24/7 support for certification steps and learning assistance
 
 Access to recorded sessions for revision
+🔗# Official Links
+
+CSM Certification Page → iCert Global CSM
+iCert Global Homepage → https://www.icertglobal.com
+
+Scrum Master Blog Guide → Agile & Scrum with CSM
