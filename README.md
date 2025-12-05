@@ -90,7 +90,7 @@ Templates: Product Backlog, Sprint Backlog, burndown charts
 Access to recorded sessions for revision
 # 🔗 Official Links
 
-CSM Certification Page → iCert Global CSM
-iCert Global Homepage → https://www.icertglobal.com
+CSM Certification Page → https://www.icertglobal.com/agile-and-scrum/certified-scrum-master-certification-training
+iCert Global → https://www.icertglobal.com
 
-Scrum Master Blog Guide → Agile & Scrum with CSM
+Scrum Master Blog Guide → https://www.icertglobal.com/blog/csm-certification-unlocking-agile-success-with-brnits-blog
