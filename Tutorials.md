@@ -190,6 +190,7 @@ How to use Scrum Alliance resources
 # 🔗 Helpful Links
 
 CSM Certification → https://www.icertglobal.com/agile-and-scrum/certified-scrum-master-certification-training
+
 iCert Global Homepage → https://www.icertglobal.com
 
 Scrum Master Blog Guide →https://www.icertglobal.com/blog/csm-certification-unlocking-agile-success-with-brnits-blog
