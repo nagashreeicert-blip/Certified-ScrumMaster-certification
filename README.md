@@ -1,8 +1,6 @@
-# Certified-ScrumMaster-certification
-Certified ScrumMaster (CSM) Certification Training Program
+# Certified ScrumMaster (CSM) Certification Training Program
 
-Classroom Training & Live Online Courses – Bangalore
-
+Classroom Training & Live Online Courses 
 Stop just managing tasks — start leading high-performance Agile teams with the Certified ScrumMaster (CSM®) credential from Scrum Alliance.
 
 ⭐ Ratings & Learners
@@ -15,7 +13,7 @@ Stop just managing tasks — start leading high-performance Agile teams with the
 
 ⭐ SwitchUp Rating: 4.9/5
 
-🚀 # Pass on Your First Attempt
+ # 🚀Pass on Your First Attempt
 
 Expert-led training, hands-on Scrum simulations, and real-world case studies ensure strong conceptual clarity and a high exam success rate.
 
@@ -23,11 +21,11 @@ Expert-led training, hands-on Scrum simulations, and real-world case studies ens
 
 Complete guidance on Scrum Alliance profile creation, class completion steps, and CSM® exam preparation.
 
-🎓 #  Become a Certified ScrumMaster
+# 🎓  Become a Certified ScrumMaster
 
 Master Scrum roles, ceremonies, artifacts, and team dynamics to lead Agile transformations confidently.
 
-📘 # CSM Training Program Overview
+# 📘 CSM Training Program Overview
 
 Your Certified ScrumMaster® is more than a certificate — it’s your gateway to leading Agile teams and transforming project outcomes.
 
@@ -35,7 +33,7 @@ As a Scrum practitioner, you help teams collaborate, remove blockers, and delive
 
 This program is designed by Agile coaches and seasoned Scrum practitioners who have led transformations in IT, manufacturing, fintech, telecom, and product startups. You’ll gain practical knowledge to apply Scrum in real-world business environments.
 
-🎯 What You Will Learn
+# 🎯 What You Will Learn
 
 Scrum roles: Scrum Master, Product Owner, Development Team
 
@@ -51,7 +49,7 @@ Scaling Scrum in larger organizations
 
 Delivering continuous value through incremental development
 
-🎯 Why Choose CSM®?
+# 🎯 Why Choose CSM®?
 
 Become an Agile Leader: Master servant leadership and guide teams to high performance.
 
@@ -63,7 +61,7 @@ Higher Salary Potential: Certified ScrumMasters command premium pay in the job m
 
 Global Acceptance: CSM® is recognized by organizations worldwide for Agile and Scrum excellence.
 
-🎯 How CSM® Helps Your Career
+# 🎯 How CSM® Helps Your Career
 
 Lead High-Performance Teams: Empower teams to collaborate and deliver faster.
 
@@ -75,7 +73,7 @@ Build Strong Coaching Skills: Facilitate meetings, guide teams, and resolve conf
 
 Advance Professionally: Opportunities in Scrum Master, Agile Coach, Delivery Manager, and Product roles.
 
-📌 Program Highlights
+# 📌 Program Highlights
 
 Weekend & weekday batch options
 
@@ -90,7 +88,7 @@ Templates: Product Backlog, Sprint Backlog, burndown charts
 24/7 support for certification steps and learning assistance
 
 Access to recorded sessions for revision
-🔗# Official Links
+# 🔗 Official Links
 
 CSM Certification Page → iCert Global CSM
 iCert Global Homepage → https://www.icertglobal.com
