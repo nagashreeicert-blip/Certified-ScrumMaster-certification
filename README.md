@@ -35,62 +35,63 @@ This program is designed by Agile coaches and seasoned Scrum practitioners who h
 
 # 🎯 What You Will Learn
 
-Scrum roles: Scrum Master, Product Owner, Development Team
+* Scrum roles: Scrum Master, Product Owner, Development Team
 
-Scrum ceremonies: Sprint Planning, Daily Scrum, Reviews, Retrospectives
+* Scrum ceremonies: Sprint Planning, Daily Scrum, Reviews, Retrospectives
 
-Creating & managing Product Backlogs and Sprint Backlogs
+* Creating & managing Product Backlogs and Sprint Backlogs
 
-Removing impediments and fostering team accountability
+* Removing impediments and fostering team accountability
 
-Servant leadership and Agile coaching techniques
+* Servant leadership and Agile coaching techniques
 
-Scaling Scrum in larger organizations
+* Scaling Scrum in larger organizations
 
-Delivering continuous value through incremental development
+* Delivering continuous value through incremental development
 
 # 🎯 Why Choose CSM®?
 
-Become an Agile Leader: Master servant leadership and guide teams to high performance.
+* Become an Agile Leader: Master servant leadership and guide teams to high performance.
 
-High Recognition & Credibility: CSM® is one of the most respected Agile certifications globally.
+* High Recognition & Credibility: CSM® is one of the most respected Agile certifications globally.
 
-Career Growth: Agile experts are in high demand across IT, banking, product companies, and consulting.
+* Career Growth: Agile experts are in high demand across IT, banking, product companies, and consulting.
 
-Higher Salary Potential: Certified ScrumMasters command premium pay in the job market.
+* Higher Salary Potential: Certified ScrumMasters command premium pay in the job market.
 
-Global Acceptance: CSM® is recognized by organizations worldwide for Agile and Scrum excellence.
+* Global Acceptance: CSM® is recognized by organizations worldwide for Agile and Scrum excellence.
 
 # 🎯 How CSM® Helps Your Career
 
-Lead High-Performance Teams: Empower teams to collaborate and deliver faster.
+*  Lead High-Performance Teams: Empower teams to collaborate and deliver faster.
 
-Drive Agile Transformations: Influence leadership and streamline workflows.
+* Drive Agile Transformations: Influence leadership and streamline workflows.
 
-Improve Delivery Outcomes: Reduce delays, increase productivity, and enhance product quality.
+* Improve Delivery Outcomes: Reduce delays, increase productivity, and enhance product quality.
 
-Build Strong Coaching Skills: Facilitate meetings, guide teams, and resolve conflicts.
+* Build Strong Coaching Skills: Facilitate meetings, guide teams, and resolve conflicts.
 
-Advance Professionally: Opportunities in Scrum Master, Agile Coach, Delivery Manager, and Product roles.
+* Advance Professionally: Opportunities in Scrum Master, Agile Coach, Delivery Manager, and Product roles.
 
 # 📌 Program Highlights
 
-Weekend & weekday batch options
+* Weekend & weekday batch options
 
-Role-play sessions & Scrum simulations
+* Role-play sessions & Scrum simulations
 
-CSM® exam preparation material
+* CSM® exam preparation material
 
-Real-world Scrum case studies from IT, digital, and product companies
+* Real-world Scrum case studies from IT, digital, and product companies
 
-Templates: Product Backlog, Sprint Backlog, burndown charts
+* Templates: Product Backlog, Sprint Backlog, burndown charts
 
-24/7 support for certification steps and learning assistance
+* 24/7 support for certification steps and learning assistance
 
-Access to recorded sessions for revision
+ * Access to recorded sessions for revision
 # 🔗 Official Links
 
 CSM Certification Page → https://www.icertglobal.com/agile-and-scrum/certified-scrum-master-certification-training
+
 iCert Global → https://www.icertglobal.com
 
 Scrum Master Blog Guide → https://www.icertglobal.com/blog/csm-certification-unlocking-agile-success-with-brnits-blog
